@@ -1,1 +1,1 @@
-# agile-team-playbook
+# agile-lean-team-playbook
